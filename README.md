@@ -4,10 +4,13 @@
 Welcome to the official landing page for **A Purple Night of Hope: An Intimate Concert**, an event hosted by [Derra Howard](https://www.instagram.com/derrahoward) to raise awareness and support for epilepsy advocacy. Join us on **December 8, 2024** at **Hotel Peter & Paul** for an evening of music, hope, and celebration.
 
 ## Event Details
-- **Date**: December 8, 2024
+- **Date**: November 21, 2024
 - **Location**: Hotel Peter & Paul
-- **Hosts**: TBA
-- **Contact**: [hello@sgepilepsyfdn.com](mailto:hello@sgepilepsyfdn.com)
+- **Time**: 6:30 pm to 9 pm
+- **Hosts**: Derra Howard
+-**Ticket Purchase Date**:  Monday, October 21, 2024
+-  **Contact**: [hello@sgepilepsyfdn.com](mailto:hello@sgepilepsyfdn.com)
+
 
 ## Features
 - **Responsive Landing Page**: The event page is designed to work seamlessly on both desktop and mobile devices.
